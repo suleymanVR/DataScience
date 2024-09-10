@@ -1,1 +1,2 @@
 content
+Bu dosya github tool deneme amacı ile agent tarafından olusturulmustur.
